@@ -1,14 +1,14 @@
 ## Matrices and list comprehension
 matrix is a representations of numbers, symbols, or expressions in a 2-Dimensional Array.
 In Computer Science, we can start to create a data structure that has values in rows and columns, much like a table, by utilizing a list within a list.
-All rows must have the same number of values
-All columns must have the same number of values
-All items in the 2D List must have the same data types
+All rows must have the same number of values.
+All columns must have the same number of values.
+All items in the 2D List must have the same data types.
 Since indexing always starts at 0 ... row 1 is technically located at matrix_A[0]
 List Comprehension is a concise method to create list in Python 3.
 List comprehension consists of:
 A Square Bracket containing an expression that describes the list
-One or more For clause to explain its members
+One or more For clause to explain its members.
 Then a zero or more if clauses depending on the complexity of the list.
 ## Map and filter
 The idea of a map function is to apply a function to an iterable data.
@@ -22,19 +22,19 @@ written as: Formatting:
 
 filter(bool_returning_function, sequence).
 ## Tuples
-Tuples are declared with parenthesis … aka round brackets
+Tuples are declared with parenthesis.
 () is an empty tuple
 (50,) is a singleton tuple; the comma is required
 Tuples are sliceable; therefore, indexable using square brackets
 Tuples are Iterable, Indexable, and Sliceable
-For methods and functions return to Slides
+For more methods and functions return to Slides.
 ## Sets
 A set is an unordered collection with no duplicate elements in Python.
 Set is a mathematical way to describe collection of different unique objects.
 Membership is one of the key operations with set because:
 A set has no duplicates
 A set’s membership operation is one of the fastest operations compared to strings, lists, or tuples this will be covered more when we look at the concept of: complexity
-By using membership operator, we can be certain a target exists or does not exist in our data
+By using membership operator, we can be certain a target exists or does not exist in our data.
 Same theory as mathemathical set.
 Due to its unordered nature of a set, there is no concept of indexing or slicing with a set.
 Set is iterable.
@@ -61,7 +61,7 @@ Key's are immutable and unique.
 Value of a key can be anything.
 We can delete a key hence deleting the value connected to the key
 We can empty out the entire dictionary
-We can delete the dictionary (uncommon)
+We can delete the dictionary.
 We can use the in and not in operators in a dictionary.
 If A and B are dictionary's some common methods are:
 A.keys() –> Returns a sequence of keys/addresses in A
