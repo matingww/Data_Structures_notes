@@ -1,6 +1,6 @@
 ## Matrices and list comprehension
 matrix is a representations of numbers, symbols, or expressions in a 2-Dimensional Array.
-In Computer Science, we can start to create a data structure that has values in rows and columns, much like a table, by utilizing a list within a list.
+ we can start to create a data structure that has values in rows and columns, much like a table, by utilizing a list within a list.
 All rows must have the same number of values.
 All columns must have the same number of values.
 All items in the 2D List must have the same data types.
